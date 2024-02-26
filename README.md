@@ -1,35 +1,27 @@
-## Hi, I'm Rafnix Guzmán a Python Software Developer
+## Hi, I'm Yasin Esmaeili a Python Developer
 ![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 ```python
-class RafnixG:
+class Itdevx:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.position = 'Python Software Developer'
-        self.web = 'https://rafnixg.dev'
-        self.links = 'https://links.rafnixg.dev'
-        self.blog = 'https://blog.rafnixg.dev'
-        self.cv = 'https://resume.rafnixg.dev'
-        self.twitter = '@rafnixg'
+        self.position = 'Python Developer'
         self.code = {
-            'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
-            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
+            'backend': ['Python', 'Flask', 'Django', 'FastAPI'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
+            'devops': ['Docker', 'Linux'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas'],
+            'misc': ['TDD', 'gRPC']
         }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
     def __str__(self):
         return f'{self.name} | {self.position}'
 
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me = Itdevx()
     print(me)
 
 

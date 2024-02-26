@@ -1,6 +1,6 @@
 ## Hi, I'm Yasin Esmaeili a Python Developer
 
-![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors
+![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule)
 ```python
 class Itdevx:
 

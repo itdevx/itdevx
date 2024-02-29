@@ -6,9 +6,4 @@
   </a>
 </h1>
 <br>
-<p align="center">
-  I'm Yasin Esmaeili & Software Developer from Iran
-  <br>
-</p>
-
 

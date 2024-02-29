@@ -1,6 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Developer;Backend+Developer;HTML+CSS+Bootstrap;JavaScript+ReactJs+VueJs;PostgreSQL+MySQL;Django+Django-Rest+FastAPI+Design-Pattern+)](https://git.io/typing-svg)
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img  src="https://readme-typing-svg.herokuapp.com/?lines=Backend+developer;Python+developer;Django+DRF+Docker;HTML+CSS+SASS+Bootstrap;JavaScript+ReactJS+VueJS!&center=true&size=30>
-  </a>
-</h1>
+<br>
+<h3 align="center" style="color:Violet ;background: #f2f2f2; color: red;">
+  Hi, I'm Yasin Esmaeili, Software Developer from Iran
+</h3>
+
+
+

@@ -2,7 +2,7 @@
 
 <br>
 <h3 align="center" style="color:Violet ;background: #f2f2f2; color: red;">
-  Hi, I'm Yasin Esmaeili, Backend Developer from Iran
+  my name is yasin esmaeili. i am a Backend Developer
 </h3>
 
 

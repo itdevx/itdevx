@@ -1,11 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Developer;Backend+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yasin+esmaeili;Python+Developer;Backend+Developer;)](https://git.io/typing-svg)
 
 <br>
-<h3 align="center" style="color:Violet ;background: #f2f2f2; color: red;">
-  my name is yasin esmaeili. i am a Backend Developer
-</h3>
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itdevx) 
